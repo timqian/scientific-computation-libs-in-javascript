@@ -1,3 +1,6 @@
+> After one day's search I find these libs, It seems [mathjs](https://github.com/josdejong/mathjs) is the best of them(have most stars, most commits). But still, it has a long way to go to be able to compare with libs written in other languages(like numpy in python). I am wondering whether there are better ways to do scientific computation in javascript.
+
+
 ### Scientific computation libs written in javascript
 
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
