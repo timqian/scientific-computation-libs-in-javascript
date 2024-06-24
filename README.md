@@ -4,6 +4,7 @@
 ### Scientific computation libs written in javascript
 
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
+- [stdlib](https://github.com/stdlib-js/stdlib) - A fundmental library for numerical and scientific computation providing NumPy and SciPy functionality in JavaScript.
 - [numeric](https://github.com/sloisel/numeric) - Numerical analysis in Javascript.
 - [numbers.js](https://github.com/numbers/numbers.js) - Advanced Mathematics Library for Node.js and JavaScript.
 - [jmat](https://github.com/lvandeve/jmat) - Complex special functions, numerical linear algebra and statistics in JavaScript.
