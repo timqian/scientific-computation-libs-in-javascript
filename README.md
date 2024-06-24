@@ -9,3 +9,4 @@
 - [jmat](https://github.com/lvandeve/jmat) - Complex special functions, numerical linear algebra and statistics in JavaScript.
 - [accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 - [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
+- [Scribbler](https://scribbler.live) - It isnot a library but a notebook tool that can be used for scientific computation.
