@@ -14,3 +14,4 @@
 - [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
 - [Scribbler](https://scribbler.live) - It isnot a library but a notebook tool that can be used for scientific computation.
 - [FEAScript](https://feascript.com/) - A lightweight finite element simulation library. It allows users to create and run client-side, browser-based simulations for physics and engineering problems.
+- [or-tools-wasm](https://github.com/Axelwickm/or-tools-wasm) - Combinatorial optimization with Google OR-Tools compiled to multithreaded WebAssembly for browser and JavaScript runtimes.
